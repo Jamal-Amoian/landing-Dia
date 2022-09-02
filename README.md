@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Dia landing page
+- Stack: HTML5, SASS (SCSS), JavaScript
+- Methodology: BEM
+- Fully responsive layout was made by using CSS Grid and FlexBox
+- Design of landing you can find [here](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-?node-id=0%3A1)
+- Click the link to see [DEMO](https://jamal-amoian.github.io/layout_dia/#)
